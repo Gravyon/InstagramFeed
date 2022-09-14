@@ -1,0 +1,53 @@
+body {
+    background-color: #eaeaea;
+
+}
+#header {
+    
+    height: 10%;
+    margin-left: 25%;
+    margin-right:30%;
+    text-align: left;
+    background-color: #fefefe;
+
+}
+
+#h3, #date {
+    display:inline-flex;
+    clear: none;
+
+}
+
+#h3 {
+    max-width: 100%;
+}
+
+#p1 {
+    text-align: left;
+
+}
+
+#date {
+    color: gray;
+    float: right;
+
+}   
+img {
+    max-width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+#content {
+    max-width: 45%;
+    margin-left: 25%;
+    background-color: #fefefe;
+
+    
+}
+
+#border {
+    border: 1px solid rgb(163, 150, 150);
+
+}
